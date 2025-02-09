@@ -1,4 +1,4 @@
-# Mini Project PT. Eagle Sporting Goods
+# Simple Auth App
 ## 📌 Deskripsi Proyek  
 Mini proyek berbasis web untuk technical test yang dikembangkan menggunakan **Laravel (Backend) dan Next.js (Frontend)**, serta **MySQL** sebagai database. Sistem ini memiliki fitur autentikasi menggunakan **JWT**, dashboard dengan beberapa menu utama, logout, dan dukungan multi-bahasa (**Indonesia, Inggris, Mandarin**).
 
